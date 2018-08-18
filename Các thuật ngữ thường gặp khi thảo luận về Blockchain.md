@@ -25,7 +25,7 @@
 >Dùng để chỉ các blockchain với hệ sinh thái bé hơn có kết nối với Mainchain
 
 **Proof Of Work (PoW)**
->Thuật toán đồng thuận giữa các node trong Blockchain, đồng thuận dựa trên công sức (ửok, hashing power) bỏ ra của các node.
+>Thuật toán đồng thuận giữa các node trong Blockchain, đồng thuận dựa trên công sức (work, hashing power) bỏ ra của các node.
 
 **Proof of Stake (PoS)**
 >Thuật toán đồng thuật giữa các node trong Blockchain, đồng thuật dựa trên cổ phần (Stake) của các Node.
@@ -37,10 +37,10 @@
 >Thường chỉ các node tham gia tạo, xác nhận Block trong Blockchain. Khá giống với Miner. Khái niệm này dùng trong Blockchain sử dụng thuật toán đồng thuận Proof Of Stake.
 
 **Fork**
->Chỉ các chia tách 1 Blockchain thành 2 hoặc nhiều nhánh, khi 2 hoặc nhiều block sau cùng trỏ vào 1 block trước. Fork có thể được tạo ra vô tình, xảy ra khi nhiều hơn 1 miner đào được block mới cùng lúc (sẽ chỉ tồn tại tạm thời), hoặc cố ý, khi cộng đồng chia rẽ làm 2 hay nhiều nhóm chạy các phiên bản phần mềm không tương thích nhau.
+>Chỉ các chia tách 1 Blockchain thành 2 hoặc nhiều nhánh, khi 2 hoặc nhiều block sau cùng trỏ vào 1 block trước. Fork có thể được tạo ra vô tình, xảy ra khi nhiều hơn 1 miner đào được block mới cùng lúc (sẽ chỉ tồn tại tạm thời), hoặc cố ý, khi cộng đồng chia rẽ làm 2 hay nhiều nhóm chạy các phiên bản phần mềm không tương thích nhau.
 
 **Hard fork**
->Xảy ra khi quy luật đồng thuận (consensus rule) được nới lỏng (quy luật cũ là tập con của quy luật mới), nếu tất cả miner update lên phần mềm mới thì sẽ không xảy ra chia tách, nếu còn một số miner vẫn chạy phần mềm cũ thì sẽ chia tách.
+>Xảy ra khi quy luật đồng thuận (consensus rule) được nới lỏng (quy luật cũ là tập con của quy luật mới), nếu tất cả miner update lên phần mềm mới thì sẽ không xảy ra chia tách, nếu còn một số miner vẫn chạy phần mềm cũ thì sẽ chia tách.
 
 **Soft fork**
 >Xảy ra khi quy luật đồng thuận được thắt chặt (quy luật mới là tập con của quy luật cũ), nếu đa số miner update lên phần mềm mới thì sẽ không xảy ra chia tách, nếu chỉ số ít update thì sẽ chia tách.
